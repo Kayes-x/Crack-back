@@ -1,22 +1,22 @@
 # Crack-back
-$ pkg update
+ pkg update
 
-$ pkg upgrade
+ pkg upgrade
 
-$ pkg install python2
+ pkg install python2
 
-$ pkg install git
+ pkg install git
 
-$ pip2 install requests
+ pip2 install requests
 
-$ pip2 install mechanize
+ pip2 install mechanize
 
-$ pip2 install bs4
+ pip2 install bs4
 
-$ pip2 install lolcat 
+ pip2 install lolcat 
 
-$  git clone https://github.com/Kayes-x/Crack-back
+ git clone https://github.com/Kayes-x/Crack-back
 
-$  cd SHANTO-11
+  cd CRACK-BACK 
 
-$  python2 SHANTO11.py
+ python2 CRACK-BACK.py
